@@ -2,8 +2,8 @@
 //  main.m
 //  fast_du
 //
-//  Created by William Wisdom on 1/2/20.
-//  Copyright © 2020 William Wisdom. All rights reserved.
+//  Created by Sophia Wisdom on 1/2/20.
+//  Copyright © 2020 Sophia Wisdom. All rights reserved.
 //
 
 #include <sys/syscall.h>
